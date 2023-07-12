@@ -131,7 +131,7 @@ export default function Home() {
           {
             !isLoading && photos?.length === 0 &&
             <h3 className='text-6 text-gray-dark300 col-span-12 text-center my-20'>
-              There's no photos to see with this params
+              There&apos;s no photos to see with this params
             </h3>
           }
           <div className='col-span-12 flex justify-center my-10'>
